@@ -6,5 +6,6 @@ https://deepcomputing.io/dc-roma-risc-v-laptop-ii-now-officially-supports-ubuntu
 https://deepcomputing.io/support/download/os/ubuntu-24.04-desktop-k1-v2.0.1-upgrade-sdcard.zip
 ## Ubuntu desktop 24.04 images to boot from SD cards directly:  
 https://deepcomputing.io/support/download/os/ubuntu-24.04-desktop-k1-v2.0.1-release-sdcard.zip
+MD5:7e193f590a5849f28a6a3dfe5ebb953d
 ## Fedora 41 images for DC-ROMA RISC-V Laptop Gen 2:
 https://images.fedoravforce.org/DC-ROMA%20II
