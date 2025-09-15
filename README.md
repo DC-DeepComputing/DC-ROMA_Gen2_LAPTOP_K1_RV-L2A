@@ -20,6 +20,6 @@ http://120.92.155.32:8082/artifactory/virtOS/k1-debian/debian13-desktop-k1-20250
 
 **MD5**: **24879f3bc6c999cd2f19561846018663**
 ## Debian13-desktop images to boot from SD cards directly:  
-http://120.92.155.32:8082/artifactory/virtOS/k1-debian/debian13-desktop-k1-release-20250912-sdcard.img.zip
+
 
 **MD5**: **dd43698b76ce13315f4bbb746da54ec8**
