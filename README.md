@@ -10,10 +10,10 @@ http://120.92.155.32:8082/artifactory/virtOS/K1-ubuntu/ubuntu-24.04-desktop-k1-v
 https://deepcomputing.io/support/download/os/ubuntu-24.04-desktop-k1-v2.0.1-release-sdcard.zip
 
 **MD5**: **7e193f590a5849f28a6a3dfe5ebb953d**
-## Fedora 41 images for DC-ROMA RISC-V Laptop Gen 2:
-https://mirror.iscas.ac.cn/fedora-riscv/releases/42/Spins-nonfree/riscv64/images/SpacemiT-K1/Fedora-GNOME-42-20250713042352.riscv64.SpacemiT-K1.raw.gz
+## Fedora 42 images for DC-ROMA RISC-V Laptop Gen 2:
+https://mirror.iscas.ac.cn/fedora-riscv/releases/42/Spins-nonfree/riscv64/images/SpacemiT-K1/Fedora-GNOME-42-20250927124243.riscv64.SpacemiT-K1.raw.gz
 
-**MD5**:**a640088031485c649e2d583f18f2fe1c**
+**MD5**:**c6b0df4d916c0b090709bdc082fd0f10**
 
 ## Debian13-desktop images for upgrading: 
 http://120.92.155.32:8082/artifactory/virtOS/k1-debian/debian13-desktop-k1-20250912-upgrade-sdcard.zip
